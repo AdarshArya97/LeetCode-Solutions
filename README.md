@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0292-nim-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -64,4 +65,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
