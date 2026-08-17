@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [2769-find-the-maximum-achievable-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
