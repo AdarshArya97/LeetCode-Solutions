@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [3925-concatenate-array-with-reverse](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Brainteaser
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
