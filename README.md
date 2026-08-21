@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [1512-number-of-good-pairs](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1512-number-of-good-pairs](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1512-number-of-good-pairs](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0048-rotate-image) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
