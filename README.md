@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1927-sum-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [1927-sum-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
