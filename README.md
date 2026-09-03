@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1207-unique-number-of-occurrences](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
