@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Recursion
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
