@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Enumeration
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [2326-spiral-matrix-iv](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Algorithm X
 |  |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
