@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0622-design-circular-queue](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0848-shifting-letters](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0848-shifting-letters) |
 | [0861-score-after-flipping-matrix](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [2326-spiral-matrix-iv](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Algorithm X
 |  |
@@ -286,9 +288,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 ## Heap (Priority Queue)
 |  |
