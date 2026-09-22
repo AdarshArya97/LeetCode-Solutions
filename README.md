@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Enumeration
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [2326-spiral-matrix-iv](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Algorithm X
 |  |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
