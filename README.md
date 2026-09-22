@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2326-spiral-matrix-iv](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [2326-spiral-matrix-iv](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Brainteaser
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Counting
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [2326-spiral-matrix-iv](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Algorithm X
 |  |
 | ------- |
