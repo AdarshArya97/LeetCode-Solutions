@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0848-shifting-letters](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0848-shifting-letters) |
+| [0861-score-after-flipping-matrix](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0861-score-after-flipping-matrix](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1927-sum-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
