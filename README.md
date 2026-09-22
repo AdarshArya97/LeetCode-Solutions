@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -234,9 +235,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
