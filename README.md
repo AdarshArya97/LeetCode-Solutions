@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 ## Counting
 |  |
 | ------- |
