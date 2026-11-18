@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0622-design-circular-queue](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0848-shifting-letters](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0848-shifting-letters) |
 | [0861-score-after-flipping-matrix](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0904-fruit-into-baskets](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0649-dota2-senate](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [0692-top-k-frequent-words](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0848-shifting-letters](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0848-shifting-letters) |
 | [1927-sum-game](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1512-number-of-good-pairs](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
@@ -318,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0692-top-k-frequent-words](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Merge Sort
 |  |
 | ------- |
@@ -332,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/AdarshArya97/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
